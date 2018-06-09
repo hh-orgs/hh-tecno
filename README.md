@@ -5,3 +5,6 @@ Awesome technology list!
 - Spring Core: Java framework.
 - Spring Data: Java framework access to database.
 - Microservices
+- Yarn 
+- Grunt
+
