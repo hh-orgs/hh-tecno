@@ -7,4 +7,4 @@ Awesome technology list!
 - Microservices
 - Yarn 
 - Grunt
-
+- EditorConfig
