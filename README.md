@@ -1,6 +1,4 @@
-# hh-teno :spades:
-
-Awesome technology list!
+# TECHNOLOGY LIST:
 - RabbitMQ: server-side message broker.
 - Spring Core: Java framework.
 - Spring Data: Java framework access to database.
