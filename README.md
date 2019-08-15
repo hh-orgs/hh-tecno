@@ -8,3 +8,5 @@ Awesome technology list!
 - Yarn 
 - Grunt
 - EditorConfig
+- Struts
+
